@@ -1,0 +1,12 @@
+version: "3"
+
+tasks:
+  run:
+    desc: "Run the project.ipynb notebook"
+    cmds:
+      - uv run project.ipynb
+
+  lint:
+    desc: "Run code linter (ruff)"
+    cmds:
+      - uv run ruff check project.ipynb
