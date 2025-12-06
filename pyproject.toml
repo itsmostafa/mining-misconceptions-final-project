@@ -5,6 +5,7 @@ description = "Eedi Mining Misconceptions in Mathematics - Kaggle Competition"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "datasets>=4.4.1",
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.7",
     "nltk>=3.9.2",
