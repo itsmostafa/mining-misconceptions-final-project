@@ -1,4 +1,9 @@
-# Phishing Campaign Detection using Unsupervised Learning 
+# Eedi - Mining Misconceptions in Mathematics Final Project
 
-### Citation
-Prasad, A. & Chandra, S. (2024). PhiUSIIL Phishing URL (Website) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.1016/j.cose.2023.103545.
+### Predict affinity between misconceptions and incorrect answers (distractors) in multiple-choice questions
+
+Kaggle Competition: https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics/
+
+## AI Citation
+
+"Fix any grammatical issues in the following Jupyter notebook." prompt. ChatGPT, GPT 5, OpenAI, December 5th, 2025 chat.openai.com/chat
